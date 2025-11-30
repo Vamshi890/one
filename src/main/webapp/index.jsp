@@ -609,7 +609,7 @@
             <div class="deal" style="align-items:stretch;">
                 <emmg src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80" alt="Deal product">
                 <div class="content">
-                    <h3>apple Air M2</h3>
+                    <h3>appleeee Air M2</h3>
                     <p class="muted">Thin, light and powerful — now with M2 performance.</p>
 
                     <div class="timer" aria-hidden="false">
